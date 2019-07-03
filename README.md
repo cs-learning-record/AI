@@ -15,3 +15,5 @@
 11. [算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 11. [深度学习初识](https://github.com/frank-lam/fullstack-tutorial/blob/master/notes/DeepLearning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%88%9D%E8%AF%86.md)
 12. [tensorflow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
+13. [Python3 入门机器学习](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
+14. [玩转线性代数](https://github.com/liuyubobobo/Play-with-Linear-Algebra)
