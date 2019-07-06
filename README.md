@@ -1,3 +1,16 @@
+![image](./img/timg.jpg)
+<br>
+
+## 前言
+
+本人平时学习及收集内容，欢迎参入一起讨论。
+
+## 关于作者
+
+暂时欠着
+
+## 目录
+
 1. [机器学习原理](https://github.com/shunliz/Machine-Learning)
 1. [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
 1. [AiLearning: 机器学习 ](https://github.com/apachecn/AiLearning)
@@ -17,3 +30,11 @@
 12. [tensorflow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 13. [Python3 入门机器学习](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 14. [玩转线性代数](https://github.com/liuyubobobo/Play-with-Linear-Algebra)
+
+### 联系作者
+<div align="center">
+    <p>
+        在颠覆世界的同时，也要好好关照自己。
+    </p>
+    <img src="./img/contact.png" />
+</div>
