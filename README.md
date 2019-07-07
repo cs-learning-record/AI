@@ -30,7 +30,7 @@
 12. [tensorflow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 13. [Python3 入门机器学习](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)
 14. [玩转线性代数](https://github.com/liuyubobobo/Play-with-Linear-Algebra)
-
+15. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 ### 联系作者
 <div align="center">
     <p>
