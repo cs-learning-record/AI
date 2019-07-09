@@ -32,6 +32,9 @@
 14. [玩转线性代数](https://github.com/liuyubobobo/Play-with-Linear-Algebra)
 15. [【干货】史上最全的PyTorch学习资源汇总](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
 16. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
+17. [吴恩达老师的机器学习课程](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+18. [『飞桨』深度学习框架入门教程](https://github.com/PaddlePaddle/book)
+
 ### 联系作者
 <div align="center">
     <p>
