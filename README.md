@@ -34,11 +34,12 @@
 16. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 17. [吴恩达老师的机器学习课程](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 18. [『飞桨』深度学习框架入门教程](https://github.com/PaddlePaddle/book)
+19. [2020年的算法实习岗位信息表](https://github.com/HarleysZhang/2019_algorithm_intern_information)
 
 ### 联系作者
 <div align="center">
     <p>
-        在颠覆世界的同时，也要好好关照自己。
+        平凡世界，贵在坚持。
     </p>
     <img src="./img/contact.png" />
 </div>
