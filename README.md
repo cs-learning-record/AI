@@ -35,6 +35,7 @@
 17. [吴恩达老师的机器学习课程](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 18. [『飞桨』深度学习框架入门教程](https://github.com/PaddlePaddle/book)
 19. [2020年的算法实习岗位信息表](https://github.com/HarleysZhang/2019_algorithm_intern_information)
+20. [机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes)
 
 ### 联系作者
 <div align="center">
