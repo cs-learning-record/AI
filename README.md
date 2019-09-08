@@ -37,6 +37,7 @@
 24. [2020 年的算法实习岗位信息表](https://github.com/HarleysZhang/2019_algorithm_intern_information)
 25. [李宏毅《机器学习》笔记](https://github.com/datawhalechina/leeml-notes)
 26. [机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes)
+27. [机器学习精简入门教程](https://github.com/warmheartli/MachineLearningCourse)
 
 ### 联系作者
 
