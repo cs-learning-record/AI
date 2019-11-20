@@ -13,7 +13,7 @@
 
 1. [机器学习原理](https://github.com/shunliz/Machine-Learning)
 2. [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
-3. [AiLearning: 机器学习 ](https://github.com/apachecn/AiLearning)
+3. [AiLearning: 机器学习](https://github.com/apachecn/AiLearning)
 4. [深度学习入门](https://github.com/PaddlePaddle/book/blob/develop/README.cn.md)
 5. [500 篇干货解读人工智能新时代](https://www.cnblogs.com/ECJTUACM-873284962/p/8427030.html)
 6. [机器学习&深度学习视频资料汇总](https://www.cnblogs.com/baihuaxiu/p/6725223.html)
@@ -38,6 +38,7 @@
 25. [李宏毅《机器学习》笔记](https://github.com/datawhalechina/leeml-notes)
 26. [机器学习](https://github.com/Vay-keen/Machine-learning-learning-notes)
 27. [机器学习精简入门教程](https://github.com/warmheartli/MachineLearningCourse)
+28. [TensorFlow 2.0实战](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 
 ### 联系作者
 
