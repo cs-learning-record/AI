@@ -40,6 +40,7 @@
 27. [机器学习精简入门教程](https://github.com/warmheartli/MachineLearningCourse)
 28. [TensorFlow 2.0实战](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 29. [flink learning](https://github.com/zhisheng17/flink-learning)
+30. [动手学深度学习](https://github.com/d2l-ai/d2l-zh)
 
 ### 联系作者
 
